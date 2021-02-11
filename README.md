@@ -17,4 +17,7 @@
   <h5> ◇ LOOCV （Leave-one-out cross-validation） </h5>
   <h5> ◇ K-fold Cross Validation </h5>
   
+
+<h2> √ D8：EDA資料分佈    </h2>
+  
      
