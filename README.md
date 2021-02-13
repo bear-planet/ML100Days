@@ -20,5 +20,8 @@
 
 <h2> √ D8：EDA資料分佈    </h2>
 <h2> √ D9：EDA：離群值(Outliner)及其處理    </h2>
+<h3> ｜檢查異常值的方法 </h3>
+  <h5> ◇ 視覺方法 - boxplot, scatter plot </h5>
+  <h5>    ◇  統計方法 - zscore, IQR  </h5>
   
      
