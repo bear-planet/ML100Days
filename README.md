@@ -24,4 +24,6 @@
   <h5> ◇ 視覺方法 - boxplot, scatter plot </h5>
   <h5>    ◇  統計方法 - zscore, IQR  </h5>
   
+<h2> √ D10 : 數值型特徵 - 去除離群值 </h2>
+  
      
