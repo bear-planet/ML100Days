@@ -45,5 +45,6 @@
 
 <h2> √ D13 DataFrame operationData frame merge/常用的 DataFrame 操作 </h2>
 <h2> √ D14 程式實作 EDA: correlation/相關係數簡介 </h2>
+<h2> √ D15 EDA from Correlation </h2>
   
      
