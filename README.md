@@ -46,5 +46,15 @@
 <h2> √ D13 DataFrame operationData frame merge/常用的 DataFrame 操作 </h2>
 <h2> √ D14 程式實作 EDA: correlation/相關係數簡介 </h2>
 <h2> √ D15 EDA from Correlation </h2>
-  
+<h2> √ D16 EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE) </h2>
+
+| 繪圖風格 | 語法 |
+| --- | --- |
+| default | plt.style.use(‘default’) # 不需設定就會使用預設 |
+| ggplot | plt.style.use('ggplot') |
+| seaborn | plt.style.use(‘seaborn’) # 或採用 seaborn 套件繪圖 |
+
+<h3> ｜何謂 核密度估計 Kernel Density Estimation (KDE) </h3>
+
+
      
