@@ -48,6 +48,8 @@
 <h2> √ D15 EDA from Correlation </h2>
 <h2> √ D16 EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE) </h2>
 
+<h3> ｜繪圖風格 </h3>
+
 | 繪圖風格 | 語法 |
 | --- | --- |
 | default | plt.style.use(‘default’) # 不需設定就會使用預設 |
