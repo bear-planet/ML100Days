@@ -55,7 +55,8 @@
 | seaborn | plt.style.use(‘seaborn’) # 或採用 seaborn 套件繪圖 |
 
 <h3> ｜何謂 核密度估計 Kernel Density Estimation (KDE) </h3>
-[簡單來說：把長條圖畫成折線圖！](https://reurl.cc/R6Dmp9 "link")
+[Dillinger](http://dillinger.io/ "link")
+
 
 
      
