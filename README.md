@@ -58,9 +58,15 @@
 
 <h3> ｜何謂 核密度估計 Kernel Density Estimation (KDE) </h3>
 <h4> ✻ [KDE](https://blog.csdn.net/unixtch/article/details/78556499) </h4>
-[簡單說：把長條圖畫成折線圖！](https://reurl.cc/R6Dmp9) 
+<h4> ✻ [簡單說：把長條圖畫成折線圖！](https://reurl.cc/R6Dmp9) </h4>
 
 <h2> √ D17 EDA: 把連續型變數離散化 </h2>
+  <h5> ◆ 離散化的目的是讓事情變簡單、減少 outlier 對分析以及訓練模型的影響 </h5>
+  <h5> ◆ 主要的方法是等寬劃分 (對應 pandas 中的 cut) 以及等頻劃分 (對應 pandas 中的 qcut) </h5>
+  <h5> ◆ 可以依實際需求來自己定義離散化的方式 </h5>
+  
+<h3> ｜延伸閱讀 </h3>
+<h4> ✻ [連續特徵的離散化 : 在什麼情況下可以獲得更好的效果?](https://www.zhihu.com/question/31989952) </h4>
 
 
 
