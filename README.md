@@ -58,7 +58,10 @@
 
 <h3> ｜何謂 核密度估計 Kernel Density Estimation (KDE) </h3>
 <h4> ✻ [KDE](https://blog.csdn.net/unixtch/article/details/78556499) </h4>
-<h4> ✻ [簡單說：把長條圖畫成折線圖！](https://reurl.cc/R6Dmp9) </h4>
+[簡單說：把長條圖畫成折線圖！](https://reurl.cc/R6Dmp9) 
+
+<h2> √ D17 EDA: 把連續型變數離散化 </h2>
+
 
 
      
