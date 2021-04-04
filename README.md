@@ -69,8 +69,12 @@
 <h3> ｜延伸閱讀 </h3>
 <h4> ✻ [連續特徵的離散化 : 在什麼情況下可以獲得更好的效果?](https://www.zhihu.com/question/31989952) </h4>
 
-
 <h2> √ D18 程式實作 把連續型變數離散化 </h2>
+<h2> √ D19 Subplots </h2>
+<h3> ｜延伸閱讀 </h3>
+<h4> ✻ [matplotlib 官方範例](https://matplotlib.org/2.0.2/examples/pylab_examples/subplots_demo.html) </h4>
+<h4> ✻ [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html) </h4>
+<h4> ✻ [另類子圖 Seaborn.jointplot](https://seaborn.pydata.org/generated/seaborn.jointplot.html) </h4>
 
 
 
