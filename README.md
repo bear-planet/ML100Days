@@ -76,6 +76,15 @@
 <h4> ✻ [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html) </h4>
 <h4> ✻ [另類子圖 Seaborn.jointplot](https://seaborn.pydata.org/generated/seaborn.jointplot.html) </h4>
 
+<h2> √ D20 Heatmap & Grid-plot </h2>
+<h3> ｜NOTE </h3>
+  <h5> ◆ Heatmap 常用於呈現訊息的強弱 (以顏色深淺呈現)，也常用於呈現混淆矩陣 </h5>
+  <h5> ◆ pair/gridplot 結合了 scatter plot 與 historgram 的好處來呈現變數間的相關程度 </h5>
+  
+<h3> ｜延伸閱讀 </h3>
+<h4> ✻ [Heatmap](https://matplotlib.org/3.2.2/gallery/images_contours_and_fields/image_annotated_heatmap.html) </h4>
+<h4> ✻ [Pairplot 的更多應用實例](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166) </h4>
+
 
 
      
