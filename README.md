@@ -85,6 +85,12 @@
 <h4> ✻ [Heatmap](https://matplotlib.org/3.2.2/gallery/images_contours_and_fields/image_annotated_heatmap.html) </h4>
 <h4> ✻ [Pairplot 的更多應用實例](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166) </h4>
 
+<h2> √ D24：類別型特徵 - 基礎處理 </h2>
+<h3> ｜NOTE </h3>
+  <h5> ◆ 類別型特徵有標籤編碼 (Label Encoding) 與獨熱編碼 (One Hot Encoding) 兩種基礎編碼方式 </h5>
+  <h5> ◆ 兩種編碼中標籤編碼比較常用 </h5>
+  <h5> ◆ 當特徵重要性高，且可能值較少時，才應該考慮獨熱編碼 </h5>
+
 
 
      
