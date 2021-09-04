@@ -72,9 +72,9 @@
 <h2> √ D18 程式實作 把連續型變數離散化 </h2>
 <h2> √ D19 Subplots </h2>
 <h3> ｜延伸閱讀 </h3>
-<h4> [matplotlib 官方範例](https://matplotlib.org/2.0.2/examples/pylab_examples/subplots_demo.html) </h4>
-<h4> [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html) </h4>
-<h4> [另類子圖 Seaborn.jointplot](https://seaborn.pydata.org/generated/seaborn.jointplot.html) </h4>
+<h4> ✻  [matplotlib 官方範例](https://matplotlib.org/2.0.2/examples/pylab_examples/subplots_demo.html) </h4>
+<h4> ✻  [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html) </h4>
+<h4> ✻  [另類子圖 Seaborn.jointplot](https://seaborn.pydata.org/generated/seaborn.jointplot.html) </h4>
 
 <h2> √ D20 Heatmap & Grid-plot </h2>
 <h3> ｜NOTE </h3>
@@ -90,7 +90,8 @@
   <h5> ◆ 類別型特徵有標籤編碼 (Label Encoding) 與獨熱編碼 (One Hot Encoding) 兩種基礎編碼方式 </h5>
   <h5> ◆ 兩種編碼中標籤編碼比較常用 </h5>
   <h5> ◆ 當特徵重要性高，且可能值較少時，才應該考慮獨熱編碼 </h5>
-
+<h3> ｜延伸閱讀 </h3>
+<h4> ✻ [數據預處理：獨熱編碼（One-Hot Encoding）和 LabelEncoder標籤編碼](https://www.twblogs.net/a/5baab6e32b7177781a0e6859?lang=zh-cn) </h4>
 
 
      
