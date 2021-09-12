@@ -111,5 +111,14 @@
 <h3> ｜延伸閱讀 </h3>
 <h4> ✻ [Feature hashing (特徵哈希)](https://blog.csdn.net/laolu1573/article/details/79410187) </h4>
 
+<h2> √ D27：時間型特徵 </h2>
+<h3> ｜NOTE </h3>
+  <h5> ◆ 時間型特徵最常用的是特徵分解 - 拆解成年/月/日/時/分/秒的分類值 </h5>
+  <h5> ◆ 週期循環特徵是將時間"循環"特性改成特徵方式，設計關鍵在於首尾相接, 因此我們需要使用 sin /cos 等週期函數轉換 </h5>
+  <h5> ◆ 常見的週期循環特徵有 - 年週期(季節) / 周周期(例假日) / 日週期(日夜與生活作息), 要注意的是最高與最低點的設置  </h5>
+<h3> ｜延伸閱讀 </h3>
+<h4> ✻ [PYTHON-基礎-時間日期處理小結](https://wklken.me/posts/2015/03/03/python-base-datetime.html) </h4>
+<h4> ✻ [datetime — Basic date and time types](https://docs.python.org/3/library/datetime.html) </h4>
+
 
      
